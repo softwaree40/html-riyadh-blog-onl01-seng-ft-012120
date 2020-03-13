@@ -7,7 +7,7 @@ SUB HEAD
 `Where A Traditional Past Meets A Modern Future.`
 
 IMAGE 1 FILE
-
+<img src="../images/transportation/>
 `transit.jpg`
 
 IMAGE 1 ALT TEXT
